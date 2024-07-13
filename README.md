@@ -99,19 +99,6 @@ git push origin feature/اسم-الميزة
 إذا كان لديك أي أسئلة أو تحتاج إلى دعم، يرجى التواصل معي عبر izzeldeennasser9@gmail.com 
 
 
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
 ## تواصل معي
 
 البريد الإلكتروني: izzeldeennasser9@gmail.com 
